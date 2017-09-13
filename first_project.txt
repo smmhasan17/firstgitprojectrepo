@@ -1,0 +1,17 @@
+ git init- it will initialize an empty git repository
+
+git add - there can be change in the repository.this command add all this
+changes in directory.
+
+git commit -m "messege"- it commits with a messege, by which what has done or change can be understood easily
+
+git clone(repository location)-- in the specified location this command will make a clone to the directory of 
+the repository
+
+cat.git/config-- by this command which branch tracking which can be seen.
+
+clear- this command clears the previous commands and start freshly. 
+
+git help- it shows git commands
+git log- it shows the description of commits
+git status- it shows the present status or situation
